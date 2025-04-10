@@ -1,4 +1,7 @@
-<h2><a href="https://leetcode.com/problems/count-the-number-of-powerful-integers">Count the Number of Powerful Integers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given three integers <code>start</code>, <code>finish</code>, and <code>limit</code>. You are also given a <strong>0-indexed</strong> string <code>s</code> representing a <strong>positive</strong> integer.</p>
+
+# [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers) ![](https://img.shields.io/badge/Hard-red)
+
+<p>You are given three integers <code>start</code>, <code>finish</code>, and <code>limit</code>. You are also given a <strong>0-indexed</strong> string <code>s</code> representing a <strong>positive</strong> integer.</p>
 
 <p>A <strong>positive</strong> integer <code>x</code> is called <strong>powerful</strong> if it ends with <code>s</code> (in other words, <code>s</code> is a <strong>suffix</strong> of <code>x</code>) and each digit in <code>x</code> is at most <code>limit</code>.</p>
 
@@ -43,3 +46,5 @@ It can be shown that there are only 2 powerful integers in this range.
 	<li><code>s</code> only consists of numeric digits which are at most <code>limit</code>.</li>
 	<li><code>s</code> does not have leading zeros.</li>
 </ul>
+
+        
