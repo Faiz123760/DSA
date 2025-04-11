@@ -1,4 +1,7 @@
-<h2><a href="https://leetcode.com/problems/count-symmetric-integers">  Count Symmetric Integers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two positive integers <code>low</code> and <code>high</code>.</p>
+
+# [  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) ![](https://img.shields.io/badge/Easy-green)
+
+<p>You are given two positive integers <code>low</code> and <code>high</code>.</p>
 
 <p>An integer <code>x</code> consisting of <code>2 * n</code> digits is <strong>symmetric</strong> if the sum of the first <code>n</code> digits of <code>x</code> is equal to the sum of the last <code>n</code> digits of <code>x</code>. Numbers with an odd number of digits are never symmetric.</p>
 
@@ -27,3 +30,5 @@
 <ul>
 	<li><code>1 &lt;= low &lt;= high &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+        
