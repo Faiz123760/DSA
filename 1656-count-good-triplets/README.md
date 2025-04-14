@@ -1,4 +1,7 @@
-<h2><a href="https://leetcode.com/problems/count-good-triplets">Count Good Triplets</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array of integers <code>arr</code>, and three integers&nbsp;<code>a</code>,&nbsp;<code>b</code>&nbsp;and&nbsp;<code>c</code>. You need to find the number of good triplets.</p>
+
+# [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) ![](https://img.shields.io/badge/Easy-green)
+
+<p>Given an array of integers <code>arr</code>, and three integers&nbsp;<code>a</code>,&nbsp;<code>b</code>&nbsp;and&nbsp;<code>c</code>. You need to find the number of good triplets.</p>
 
 <p>A triplet <code>(arr[i], arr[j], arr[k])</code>&nbsp;is <strong>good</strong> if the following conditions are true:</p>
 
@@ -38,3 +41,4 @@
 	<li><code>0 &lt;= arr[i] &lt;= 1000</code></li>
 	<li><code>0 &lt;= a, b, c &lt;= 1000</code></li>
 </ul>
+        
