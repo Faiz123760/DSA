@@ -1,4 +1,7 @@
-<h2><a href="https://leetcode.com/problems/count-the-number-of-ideal-arrays">Count the Number of Ideal Arrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given two integers <code>n</code> and <code>maxValue</code>, which are used to describe an <strong>ideal</strong> array.</p>
+
+# [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays) ![](https://img.shields.io/badge/Hard-red)
+
+<p>You are given two integers <code>n</code> and <code>maxValue</code>, which are used to describe an <strong>ideal</strong> array.</p>
 
 <p>A <strong>0-indexed</strong> integer array <code>arr</code> of length <code>n</code> is considered <strong>ideal</strong> if the following conditions hold:</p>
 
@@ -46,3 +49,5 @@ There are a total of 9 + 1 + 1 = 11 distinct ideal arrays.
 	<li><code>2 &lt;= n &lt;= 10<sup>4</sup></code></li>
 	<li><code>1 &lt;= maxValue &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+        
